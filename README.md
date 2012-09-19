@@ -1,4 +1,4 @@
 cl-libplot
 ==========
 
-A cffi based Common Lisp binding to Gnu libplot
+A cffi based Common Lisp binding to Gnu libplot.
